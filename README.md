@@ -1,4 +1,4 @@
-# Healthcare Shift Analytics — Micro Project 01
+# Healthcare Shift Analytics
 
 ## 1. Project Overview
 This micro-project simulates a small healthcare staffing marketplace where nurses pick up shifts at different facilities. The goal is to understand how well shifts are being filled, which facilities and specialties struggle the most, how quickly shifts get accepted, and whether higher hourly pay leads to faster staffing.
